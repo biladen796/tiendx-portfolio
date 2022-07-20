@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/tiendx-portfolio/static/css/main.4fb7c352.css",
-    "main.js": "/tiendx-portfolio/static/js/main.363256aa.js",
+    "main.css": "/tiendx-portfolio/static/css/main.674e8df4.css",
+    "main.js": "/tiendx-portfolio/static/js/main.5ff8a208.js",
     "static/js/787.128fc6e9.chunk.js": "/tiendx-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/spinnee.webp": "/tiendx-portfolio/static/media/spinnee.c950ddeee0140c479fcd.webp",
+    "static/media/mvs.jpg": "/tiendx-portfolio/static/media/mvs.51988d0796b601adc720.jpg",
     "static/media/helvetica-neu.ttf": "/tiendx-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/tiendx-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/logo_sub.png": "/tiendx-portfolio/static/media/logo_sub.621dd45ad7f07e858608.png",
+    "static/media/apec_finance.webp": "/tiendx-portfolio/static/media/apec_finance.5217a7aac026cef1658c.webp",
     "static/media/logo-s.png": "/tiendx-portfolio/static/media/logo-s.9c68a405461fddb22420.png",
+    "static/media/mibitel.webp": "/tiendx-portfolio/static/media/mibitel.27f30504d2d9f6a9b338.webp",
     "static/media/CoolveticaRg-Regular.woff2": "/tiendx-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/tiendx-portfolio/index.html",
-    "main.4fb7c352.css.map": "/tiendx-portfolio/static/css/main.4fb7c352.css.map",
-    "main.363256aa.js.map": "/tiendx-portfolio/static/js/main.363256aa.js.map",
+    "main.674e8df4.css.map": "/tiendx-portfolio/static/css/main.674e8df4.css.map",
+    "main.5ff8a208.js.map": "/tiendx-portfolio/static/js/main.5ff8a208.js.map",
     "787.128fc6e9.chunk.js.map": "/tiendx-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fb7c352.css",
-    "static/js/main.363256aa.js"
+    "static/css/main.674e8df4.css",
+    "static/js/main.5ff8a208.js"
   ]
 }
