@@ -32,7 +32,6 @@ const Contact = () => {
             .then(
                 () => {
                     alert('Message successfully sent!');
-                    window.location.reload();
                 },
                 () => {
                     alert('Failed to send the message, please try again');
