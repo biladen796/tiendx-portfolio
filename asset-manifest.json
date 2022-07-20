@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tiendx-portfolio/static/css/main.472d5b36.css",
+    "main.css": "/tiendx-portfolio/static/css/main.86aa2ab3.css",
     "main.js": "/tiendx-portfolio/static/js/main.5ff8a208.js",
     "static/js/787.128fc6e9.chunk.js": "/tiendx-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/spinnee.webp": "/tiendx-portfolio/static/media/spinnee.c950ddeee0140c479fcd.webp",
@@ -13,12 +13,12 @@
     "static/media/mibitel.webp": "/tiendx-portfolio/static/media/mibitel.27f30504d2d9f6a9b338.webp",
     "static/media/CoolveticaRg-Regular.woff2": "/tiendx-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/tiendx-portfolio/index.html",
-    "main.472d5b36.css.map": "/tiendx-portfolio/static/css/main.472d5b36.css.map",
+    "main.86aa2ab3.css.map": "/tiendx-portfolio/static/css/main.86aa2ab3.css.map",
     "main.5ff8a208.js.map": "/tiendx-portfolio/static/js/main.5ff8a208.js.map",
     "787.128fc6e9.chunk.js.map": "/tiendx-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.472d5b36.css",
+    "static/css/main.86aa2ab3.css",
     "static/js/main.5ff8a208.js"
   ]
 }
