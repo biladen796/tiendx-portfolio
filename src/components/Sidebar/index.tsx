@@ -4,7 +4,7 @@ import './index.scss';
 import LogoS from '../../assets/images/logo-s.png';
 import LogoSubtitle from '../../assets/images/logo_sub.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faEnvelope, faHome, faUser } from '@fortawesome/free-solid-svg-icons';
+import { faEnvelope, faHome, faSuitcase, faUser } from '@fortawesome/free-solid-svg-icons';
 import { faFacebook, faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
 const Sidebar = () => {
@@ -18,10 +18,13 @@ const Sidebar = () => {
                 <NavLink className={(e) => (e.isActive ? 'active' : '')} to={'/'}>
                     <FontAwesomeIcon icon={faHome} color='#4d4d4e' />
                 </NavLink>
-                <NavLink className={(e) => (e.isActive ? 'active' : 'about-link')} to={'/about'}>
+                <NavLink className={(e) => (e.isActive ? 'active about-link' : 'about-link')} to={'/about'}>
                     <FontAwesomeIcon icon={faUser} color='#4d4d4e' />
                 </NavLink>
-                <NavLink className={(e) => (e.isActive ? 'active' : 'contact-link')} to={'/contact'}>
+                <NavLink className={(e) => (e.isActive ? 'active portfolio-link' : 'portfolio-link')} to="/portfolio">
+                    <FontAwesomeIcon icon={faSuitcase} color="#4d4d4e" />
+                </NavLink>
+                <NavLink className={(e) => (e.isActive ? 'active contact-link' : 'contact-link')} to={'/contact'}>
                     <FontAwesomeIcon icon={faEnvelope} color='#4d4d4e' />
                 </NavLink>
             </nav>

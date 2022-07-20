@@ -60,9 +60,9 @@
             }
 
             &::after {
-                content: '';
                 font-size: 13px;
                 letter-spacing: 2px;
+                font-weight: 500;
                 position: absolute;
                 bottom: 0;
                 display: block;
@@ -78,6 +78,11 @@
                 }
             }
         }
+        a.active {
+            svg {
+                color: $primary-color;
+            }
+        }
 
         a.about-link {
             &::after {
@@ -91,11 +96,13 @@
             }
         }
 
-        a.active {
-            svg {
-                color: $primary-color;
+        a.portfolio-link {
+            &:after {
+                content: 'PORTFOLIO';
             }
         }
+
+        
     }
     ul {
         position: absolute;
