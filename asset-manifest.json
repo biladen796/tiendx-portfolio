@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tiendx-portfolio/static/css/main.968701ea.css",
-    "main.js": "/tiendx-portfolio/static/js/main.b68b3ded.js",
+    "main.css": "/tiendx-portfolio/static/css/main.4fb7c352.css",
+    "main.js": "/tiendx-portfolio/static/js/main.363256aa.js",
     "static/js/787.128fc6e9.chunk.js": "/tiendx-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/helvetica-neu.ttf": "/tiendx-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/tiendx-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
@@ -9,12 +9,12 @@
     "static/media/logo-s.png": "/tiendx-portfolio/static/media/logo-s.9c68a405461fddb22420.png",
     "static/media/CoolveticaRg-Regular.woff2": "/tiendx-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/tiendx-portfolio/index.html",
-    "main.968701ea.css.map": "/tiendx-portfolio/static/css/main.968701ea.css.map",
-    "main.b68b3ded.js.map": "/tiendx-portfolio/static/js/main.b68b3ded.js.map",
+    "main.4fb7c352.css.map": "/tiendx-portfolio/static/css/main.4fb7c352.css.map",
+    "main.363256aa.js.map": "/tiendx-portfolio/static/js/main.363256aa.js.map",
     "787.128fc6e9.chunk.js.map": "/tiendx-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.968701ea.css",
-    "static/js/main.b68b3ded.js"
+    "static/css/main.4fb7c352.css",
+    "static/js/main.363256aa.js"
   ]
 }
